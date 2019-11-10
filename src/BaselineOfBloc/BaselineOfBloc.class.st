@@ -87,8 +87,8 @@ BaselineOfBloc >> postLoadBloc: spec [
 
 { #category : #'post load' }
 BaselineOfBloc >> postLoadDisableTaskItDebugger: spec [
-	TKTConfiguration profile: TKTProfile test.
-	TKTDebugger disable.
+"	TKTConfiguration profile: TKTProfile test.
+	TKTDebugger disable."
 ]
 
 { #category : #'post load' }
